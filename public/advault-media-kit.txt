@@ -1,0 +1,46 @@
+ADVAULT - DIGITAL OUT-OF-HOME (DOOH) MEDIA KIT 2026
+==================================================
+
+1. ABOUT ADVAULT
+----------------
+AdVault is Pakistan’s leading digital out-of-home (DOOH) technology platform. We are digitizing outdoor advertising by placing smart, high-resolution screens inside premium ride-hailing vehicles.
+
+AdVault provides brands with a direct, high-attention channel to reach seated, engaged passengers during their daily commutes.
+* Founder & CEO: Saad Piracha
+* Head Office: Lahore, Pakistan
+* Primary Website: https://advault.pk
+
+2. WHY IN-CAB DIGITAL ADVERTISING?
+----------------------------------
+* Captive Audience: Passengers spend an average of 20 to 45 minutes seated in a quiet, distraction-free environment.
+* Smart Screens: High-definition, bright, interactive screens designed for optimal viewing distance.
+* Geofencing Capability: Show target advertisements only when the vehicle drives through specified locations or neighborhoods.
+* Real-Time Analytics: Access campaign performance, total plays, heatmaps, and reach analytics directly from the cloud.
+
+3. TECH STACK & CAPABILITIES
+-----------------------------
+* Platform Core: React, TypeScript, Supabase, Postgres, Cloudflare R2, and Android hardware clients.
+* Campaign Scheduling: Control date ranges, active hours, frequency, and display priority.
+* Seamless Fallback: Automatically shows high-value default ads when a vehicle travels outside your designated campaign zone.
+* Remote Sync: Campaign creatives can be updated, paused, or replaced across the entire fleet within minutes.
+
+4. CAMPAIGN PLANS & TIERS
+--------------------------
+* Pilot Plan: Perfect for early campaigns and localized testing. Ideal for test-and-learn campaigns across selected vehicles/zones. (Custom Quoted)
+* Growth Plan: For scaling brands requiring multiple geofences, advanced schedules, and detailed reporting. (Custom Quoted)
+* Enterprise Plan: Large-scale rollouts with dedicated strategic support, API integrations, and fleet-wide deployment. (Custom Quoted)
+
+5. CREATIVE ASSET SPECIFICATIONS
+--------------------------------
+* Video Formats: H.264 MP4 (high profile), 1080p or 720p, 30fps. Duration of 10s, 15s, or 30s recommended.
+* Image Formats: High-quality PNG or JPG files matching screen resolution.
+* QR Codes: Highly encouraged to link passengers to promotions, apps, or landing pages.
+
+6. CONTACT & SALES ENQUIRIES
+-----------------------------
+Ready to power up your next campaign?
+* Email: advault03@gmail.com
+* Phone: +92 323 4734649
+* CEO: Saad Piracha
+* Address: Lahore, Pakistan
+==================================================
